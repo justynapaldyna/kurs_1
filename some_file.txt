@@ -1,2 +1,2 @@
 hello world (again)
-Change from branch_2
+Change from branch_1 and from branch_2
